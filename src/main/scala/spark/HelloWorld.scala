@@ -1,4 +1,6 @@
-import org.apache.spark.{SparkContext, SparkConf}
+package spark
+
+import org.apache.spark.{SparkConf, SparkContext}
 
 object HelloWorld {
 
